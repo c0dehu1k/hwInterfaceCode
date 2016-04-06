@@ -1,0 +1,10 @@
+.idea/
+.cache/
+*.html
+*.pyc
+*.pyo
+*.obj
+*.exe
+*.com
+*.swp
+*.bak
